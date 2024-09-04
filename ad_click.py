@@ -4,3 +4,4 @@ class ad(BaseModel):
     age : int
     sex : int
     EstimatedSalary : int
+    
